@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/omega-scriptt/Hh/refs/heads/main/School%20.txt"))()
-
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/5fbfb4f4a9b8810fce66258d82f6826d61732ba771bcf97093236eed88c97769/download"))()
